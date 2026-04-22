@@ -3,6 +3,7 @@
 Pickleball content network built on WordPress — court directory, social platform, gear blog, and hosting review site. Powered by the Anthropic API, Make.com automation, and Python data pipelines. Operated by Gregory de la Cruz, author of 25+ pickleball books.
 
 Honest, deeply researched pickleball content. No corporate fluff. No paid reviews pretending to be unbiased.
+*Inspired by a 91-year-old mother who still plays pickleball every day.*
 
 ---
 
@@ -19,7 +20,7 @@ This repository documents the architecture, tooling, and content systems behind 
 | [BigPickleBalls.com](https://bigpickleballs.com) | Pickleball gear, strategy, court culture, and content hub | WordPress |
 | [USAPickleballs.com](https://usapickleballs.com) | National pickleball court directory — all 50 states | WordPress |
 | [DinkerDates.com](https://dinkerdates.com) | America's dedicated pickleball social network | pH7Builder |
-| [BaobabHosting.com](https://baobabhosting.com) | WordPress hosting reviews and comparisons | WordPress |
+
 
 ---
 
@@ -72,26 +73,6 @@ The court directory uses a JavaScript-driven HTML template system:
 - AdSense approval in progress — E-E-A-T trust chain strategy:
   - Amazon Author Page → Personal Site → Feedspot listing → Social properties
 
----
-
-## Affiliate Network — BaobabHosting.com
-
-Active affiliate relationships:
-
-| Partner | Type |
-|---------|------|
-| Kinsta | Managed WordPress hosting |
-| SiteGround | Shared/cloud hosting |
-| Cloudways | Cloud hosting |
-| KnownHost | VPS hosting |
-| InterServer | Budget/VPS hosting |
-| UltaHost | Budget hosting |
-| IONOS | Budget/business hosting |
-| HostGator | Shared hosting |
-| Bluehost | Shared hosting |
-| JetHost | Specialty hosting |
-
-Content uses an adversarial editorial voice — 300+ title library, prompt generator tool, batch HTML post generation via Anthropic API.
 
 ---
 
@@ -114,27 +95,7 @@ Code snippets and pipeline tools in this repository are for personal reference a
 ---
 
 *Built with WordPress, Python, Make.com, and the Anthropic API.*  
-*Inspired by a 91-year-old mother who still plays pickleball every day.*
 
 
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat&logo=anthropic&logoColor=white)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![WP Rocket](https://img.shields.io/badge/WP_Rocket-FF6B35?style=flat)
-![AIOSEO](https://img.shields.io/badge/AIOSEO_Pro-DB4437?style=flat)
-![WPCode](https://img.shields.io/badge/WPCode_Pro-333333?style=flat)
-![Neve Pro](https://img.shields.io/badge/Neve_Pro-8B5CF6?style=flat)
-![InterServer](https://img.shields.io/badge/InterServer-007BFF?style=flat)
-![pH7Builder](https://img.shields.io/badge/pH7Builder-E91E8C?style=flat)
-![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat)
-![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat)
