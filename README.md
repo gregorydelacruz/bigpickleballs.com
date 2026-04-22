@@ -2,7 +2,7 @@
 Pickleball content network built on WordPress — court directory, social platform, gear blog, and hosting review site. Powered by the Anthropic API, Make.com automation, and Python data pipelines. Operated by Gregory de la Cruz, author of 25+ pickleball books.
 
 
-# Big Pickle Balls — Site Network README
+# Big Pickle Balls — Site Network
 
 Honest, deeply researched pickleball content. No corporate fluff. No paid reviews pretending to be unbiased.
 
