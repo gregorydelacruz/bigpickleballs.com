@@ -3,7 +3,7 @@
 Pickleball content network built on WordPress — court directory, social platform, gear blog, and hosting review site. Powered by the Anthropic API, Make.com automation, and Python data pipelines. Operated by Gregory de la Cruz, author of 25+ pickleball books.
 
 Honest, deeply researched pickleball content. No corporate fluff. No paid reviews pretending to be unbiased.
-*Inspired by a 91-year-old mother who still plays pickleball every day.*
+Inspired by a 91-year-old mother who still plays pickleball every day.
 
 ---
 
@@ -71,7 +71,7 @@ The court directory uses a JavaScript-driven HTML template system:
 - Author bio box — deployed via WPCode Pro, After Post Content
 - Images generated via Grok, placed contextually per post
 - AdSense approval in progress — E-E-A-T trust chain strategy:
-  - Amazon Author Page → Personal Site → Feedspot listing → Social properties
+- Amazon Author Page → Personal Site → Feedspot listing → Social properties
 
 
 ---
