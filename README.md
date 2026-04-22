@@ -120,7 +120,21 @@ Code snippets and pipeline tools in this repository are for personal reference a
 
 
 
-
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat&logo=anthropic&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![WP Rocket](https://img.shields.io/badge/WP_Rocket-FF6B35?style=flat)
+![AIOSEO](https://img.shields.io/badge/AIOSEO_Pro-DB4437?style=flat)
+![WPCode](https://img.shields.io/badge/WPCode_Pro-333333?style=flat)
+![Neve Pro](https://img.shields.io/badge/Neve_Pro-8B5CF6?style=flat)
+![InterServer](https://img.shields.io/badge/InterServer-007BFF?style=flat)
+![pH7Builder](https://img.shields.io/badge/pH7Builder-E91E8C?style=flat)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
