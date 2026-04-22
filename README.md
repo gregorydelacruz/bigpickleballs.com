@@ -33,10 +33,6 @@ This repository documents the architecture, tooling, and content systems behind 
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![WP Rocket](https://img.shields.io/badge/WP_Rocket-FF6B35?style=flat)
-![AIOSEO](https://img.shields.io/badge/AIOSEO_Pro-DB4437?style=flat)
-![WPCode](https://img.shields.io/badge/WPCode_Pro-333333?style=flat)
-![Neve Pro](https://img.shields.io/badge/Neve_Pro-8B5CF6?style=flat)
 ![InterServer](https://img.shields.io/badge/InterServer-007BFF?style=flat)
 ![pH7Builder](https://img.shields.io/badge/pH7Builder-E91E8C?style=flat)
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white)
@@ -50,7 +46,6 @@ This repository documents the architecture, tooling, and content systems behind 
 
 ### Plugins & Tools
 - **WPCode Pro** — code injection, author bio box deployment network-wide
-  ![WPCode](https://img.shields.io/badge/WPCode_Pro-333333?style=flat)
 - **WP Go Maps** — court map integration with custom infowindow badges (USAPickleballs)
 - **Make.com** — automation pipelines (content distribution, RSS to social)
 - **Google Tag Manager + GA4** — analytics (cleaned up per-site)
