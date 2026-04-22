@@ -31,12 +31,13 @@ This repository documents the architecture, tooling, and content systems behind 
 ![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![InterServer](https://img.shields.io/badge/InterServer-007BFF?style=flat)
 ![pH7Builder](https://img.shields.io/badge/pH7Builder-E91E8C?style=flat)
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 ### Core
 - **CMS:** WordPress (all sites) / pH7Builder (DinkerDates)
