@@ -49,7 +49,8 @@ This repository documents the architecture, tooling, and content systems behind 
 - **SEO:** AIOSEO Pro (migrated from Rank Math Pro across full network)
 
 ### Plugins & Tools
-- **WPCode Pro** — code injection, author bio box deployment network-wide  ![WPCode](https://img.shields.io/badge/WPCode_Pro-333333?style=flat)
+- **WPCode Pro** — code injection, author bio box deployment network-wide
+  ![WPCode](https://img.shields.io/badge/WPCode_Pro-333333?style=flat)
 - **WP Go Maps** — court map integration with custom infowindow badges (USAPickleballs)
 - **Make.com** — automation pipelines (content distribution, RSS to social)
 - **Google Tag Manager + GA4** — analytics (cleaned up per-site)
