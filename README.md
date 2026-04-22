@@ -117,3 +117,12 @@ Code snippets and pipeline tools in this repository are for personal reference a
 
 *Built with WordPress, Python, Make.com, and the Anthropic API.*  
 *Inspired by a 91-year-old mother who still plays pickleball every day.*
+
+
+
+
+
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=flat)
