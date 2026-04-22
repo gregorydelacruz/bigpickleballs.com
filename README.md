@@ -71,7 +71,7 @@ The court directory uses a JavaScript-driven HTML template system:
 - Author bio box — deployed via WPCode Pro, After Post Content
 - Images generated via Grok, placed contextually per post
 - AdSense approval in progress — E-E-A-T trust chain strategy:
-- Amazon Author Page → Personal Site → Feedspot listing → Social properties
+  - Amazon Author Page → Personal Site → Feedspot listing → Social properties
 
 
 ---
