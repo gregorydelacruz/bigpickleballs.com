@@ -4,7 +4,7 @@ Pickleball content network built on WordPress — court directory, social platfo
 
 # Big Pickle Balls — Site Network
 
-Honest, deeply researched pickleball content. No corporate fluff. No paid reviews pretending to be unbiased.
+>Honest, deeply researched pickleball content. No corporate fluff. No paid reviews pretending to be unbiased.
 
 ---
 
